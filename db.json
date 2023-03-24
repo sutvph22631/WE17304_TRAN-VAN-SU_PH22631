@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Trong Kien",
+      "username": "trongkien123",
+      "email": "trongkien@gmail.com",
+      "phone": "9956976967",
+      "id": 2
+    },
+    {
+      "name": "Trong Kien123",
+      "email": "trongkien@gmail.com",
+      "phone": "9956976967",
+      "id": 5
+    },
+    {
+      "name": "tran van SU123",
+      "useName": "su123",
+      "email": "sutvph22631@gmal.com",
+      "phone": "0987654321",
+      "id": 8
+    }
+  ]
+}
